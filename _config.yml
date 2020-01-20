@@ -22,13 +22,21 @@ github_editme_path: https://github.com/miguelromeral
 
 show_disqus_comments: false
 
+# Social Sharing
+twitter:
+  username: miguelromeral
 
 
-defaults:
+sidebars:
+- nav
+
+
+# Defaults
+#defaults:
   # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+#  - scope:
+#      path: ""
+#      type: docs
+#    values:
+#      sidebar:
+#        nav: "docs"
