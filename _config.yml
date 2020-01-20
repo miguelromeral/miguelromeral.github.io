@@ -4,21 +4,21 @@ remote_theme: jekyll-theme-architect
 # Source: https://github.com/amzn/jekyll-doc-project/blob/master/_config.yml
 
 title: MiguelRomeral
-description: My developer page: Android, Java and more!
+description: My developer page: Android, Java, CSharp and more!
 
 language: english
 format: web
 favicon: assets/favicon.ico
 
-show_feedback: true
-feedback_email: miguel.romeral@hotmail.com
+#show_feedback: true
+#feedback_email: miguel.romeral@hotmail.com
 
 
-github_button_location_top_navbar: true
-github_button_location_below_title: false
-github_button_location_page_bottom: false
+#github_button_location_top_navbar: true
+#github_button_location_below_title: false
+#github_button_location_page_bottom: false
 
-github_editme_path: https://github.com/miguelromeral
+#github_editme_path: https://github.com/miguelromeral
 
-show_disqus_comments: false
+#show_disqus_comments: false
 
