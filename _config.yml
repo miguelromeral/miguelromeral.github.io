@@ -22,3 +22,13 @@ github_editme_path: https://github.com/miguelromeral
 
 show_disqus_comments: false
 
+
+
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
