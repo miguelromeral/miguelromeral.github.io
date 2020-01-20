@@ -1,8 +1,8 @@
-- title: Home
-  url: /
+- title: "Home"
+  url: "/"
 
-- title: CV
-  url: /cv.md
+- title: "CV"
+  url: "/cv.md"
   
   #- title: "Snippets"
   #subcategories:
