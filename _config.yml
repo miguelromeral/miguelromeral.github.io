@@ -4,7 +4,7 @@ remote_theme: jekyll-theme-architect
 # Source: https://github.com/amzn/jekyll-doc-project/blob/master/_config.yml
 
 title: MiguelRomeral
-description: My developer page: Android, Java, C# and more!
+description: My developer page: Android, Java and more!
 
 language: english
 format: web
