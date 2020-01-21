@@ -10,6 +10,19 @@ github_username:  miguelromeral
 markdown: kramdown
 theme: minima
 
+# Navigation
+header_pages:
+  - cv.md
+
+# Social
+minima:
+  social_links:
+    twitter: miguelromeral
+    github: miguelromeral
+    linkedin: miguelromeral
+    
+
+
 # theme: jekyll-theme-architect
 # remote_theme: jekyll-theme-architect
 
