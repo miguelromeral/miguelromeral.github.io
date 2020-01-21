@@ -1,26 +1,33 @@
-# basic options
-title: MiguelRomeral
+# Full Config Template: https://github.com/jekyll/minima/blob/master/_config.yml
+
+# Basic options
+title: Romeral's
 author: MiguelRomeral
 email: miguel.romeral@hotmail.com
-description: MR's GH-Page!
-twitter_username: miguelromeral
-github_username:  miguelromeral
+description: Miguel Romeral's GitHub page.
+
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: miguelromeral
+    github: miguelromeral
+    linkedin: miguelromeral
+
+
+# Top Navigation Menu
+header_pages:
+  - cv.md
+
 
 # Build settings
 markdown: kramdown
 theme: minima
 
-# Navigation
-header_pages:
-  - cv.md
-
-# Social
-minima:
-  social_links:
-    twitter: miguelromeral
-    github: miguelromeral
-    linkedin: miguelromeral
-    
 
 
 # theme: jekyll-theme-architect
