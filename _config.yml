@@ -22,6 +22,7 @@ minima:
 # Top Navigation Menu
 header_pages:
   - cv.md
+  - sitemap.md
 
 
 # Build settings
