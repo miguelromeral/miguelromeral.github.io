@@ -1,3 +1,10 @@
+---
+layout: page
+date: 2020-01-20 20:00
+permalink: /donation/canceled
+tags: [donation, canceled]
+---
+
 # Sorry for the inconvenience
 
 **I'd like to do something better to deserve your appreciation**

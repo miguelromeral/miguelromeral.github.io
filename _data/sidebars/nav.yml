@@ -1,8 +1,0 @@
-title: Home
-url: index.md
-output: web
-children:
-
-- title: 'CV'
-  url: cv.md
-  output: web

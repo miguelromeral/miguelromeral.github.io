@@ -1,3 +1,10 @@
+---
+layout: page
+date: 2020-01-20 20:00
+permalink: /donation/sent
+tags: [donation, sent, tip]
+---
+
 # Many thank you for your donation!
 
 **Now i owe you something!**
