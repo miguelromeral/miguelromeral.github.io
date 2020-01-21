@@ -1,42 +1,54 @@
-theme: jekyll-theme-architect
-remote_theme: jekyll-theme-architect
-
-# Source: https://github.com/amzn/jekyll-doc-project/blob/master/_config.yml
-
+# basic options
 title: MiguelRomeral
-description: My developer page with Android, Java, C# and more!
+author: MiguelRomeral
+email: miguel.romeral@hotmail.com
+description: MR's GH-Page!
+twitter_username: miguelromeral
+github_username:  miguelromeral
 
-language: english
-format: web
-favicon: assets/favicon.ico
+# Build settings
+markdown: kramdown
+theme: minima
 
-show_feedback: true
-feedback_email: miguel.romeral@hotmail.com
+# theme: jekyll-theme-architect
+# remote_theme: jekyll-theme-architect
 
+# # Source: https://github.com/amzn/jekyll-doc-project/blob/master/_config.yml
 
-github_button_location_top_navbar: true
-github_button_location_below_title: false
-github_button_location_page_bottom: false
+# title: MiguelRomeral
+# description: My developer page with Android, Java, C# and more!
 
-github_editme_path: https://github.com/miguelromeral
+# language: english
+# format: web
+# favicon: assets/favicon.ico
 
-show_disqus_comments: false
-
-# Social Sharing
-twitter:
-  username: miguelromeral
-
-
-sidebars:
-- nav
+# show_feedback: true
+# feedback_email: miguel.romeral@hotmail.com
 
 
-# Defaults
-#defaults:
-  # _docs
-#  - scope:
-#      path: ""
-#      type: docs
-#    values:
-#      sidebar:
-#        nav: "docs"
+# github_button_location_top_navbar: true
+# github_button_location_below_title: false
+# github_button_location_page_bottom: false
+
+# github_editme_path: https://github.com/miguelromeral
+
+# show_disqus_comments: false
+
+# # Social Sharing
+# twitter:
+#   username: miguelromeral
+
+
+# sidebars:
+# - nav
+
+
+# # Defaults
+# #defaults:
+#   # _docs
+# #  - scope:
+# #      path: ""
+# #      type: docs
+# #    values:
+# #      sidebar:
+# #        nav: "docs"
