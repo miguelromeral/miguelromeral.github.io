@@ -1,4 +1,6 @@
 ---
 layout: postlist
-title: "Articles published"
+title: "Articles"
+permalink: /posts
+tags: [miguel, romeral, posts]
 ---

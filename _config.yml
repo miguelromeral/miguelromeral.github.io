@@ -5,9 +5,9 @@ title: MR's Cubicle
 author: Miguel Romeral
 email: miguel.romeral@hotmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  That's my developer page, with Android, Java, C# and more!
+  This is my developer page. Android, Java, C# and more!
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 twitter_username: miguelromeral
 github_username:  miguelromeral
@@ -22,7 +22,7 @@ minima:
 
 # Top Navigation Menu
 header_pages:
-  - cv.md
+  - about.md
   - posts.md
   - sitemap.md
 
@@ -30,3 +30,6 @@ header_pages:
 # Build settings
 markdown: kramdown
 theme: minima
+
+plugins:
+  - jekyll-seo-tag

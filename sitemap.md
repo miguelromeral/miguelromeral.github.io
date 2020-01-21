@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Sitemap
+date: 2020-01-21 19:24
+permalink: /sitemap
+tags: [sitemap, miguel, romeral]
 ---
 
-# Sitemap!
+1. [Home](/)
+2. [About](/about)
+3. [Articles](/posts)

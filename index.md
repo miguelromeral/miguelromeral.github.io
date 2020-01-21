@@ -1,15 +1,18 @@
 ---
 layout: home
-title: Home
+date: 2020-01-21 19:17
+permalink: /
+tags: [home, miguel, romeral, github, pages]
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+## Welcome to my GitHub Pages Blog!
 
-Reasons:
-- its great.
-- its a test.
+**Many thanks for visiting my cubicle!**
 
-## Other thoughts
+Here I publish my projects and articles.
 
-This is great.
+If you want to see the personal achievements, please, visit the **[About page](/about)**.
+
+You can also take a look to the list of articles writen in the **[Articles page](/posts)**.
+
+Any other case, the **[Sitemap](/sitemap)** will allow you to find the right page.
