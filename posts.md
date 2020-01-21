@@ -1,4 +1,4 @@
 ---
-layout: home
-title: "Posts"
+layout: postlist
+title: "Articles published"
 ---
