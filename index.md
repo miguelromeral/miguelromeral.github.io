@@ -13,6 +13,8 @@ Here I publish my projects and articles.
 
 If you want to see the personal achievements, please, visit the **[About page](/about)**.
 
+If you feel liking to take a look the main projects, check out the **[Projects page](/projects)**.
+
 You can also take a look to the list of articles writen in the **[Articles page](/posts)**.
 
 Any other case, the **[Sitemap](/sitemap)** will allow you to find the right page.
