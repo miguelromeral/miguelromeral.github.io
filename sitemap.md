@@ -7,5 +7,7 @@ tags: [sitemap, miguel, romeral]
 ---
 
 1. [Home](/)
-2. [About](/about)
-3. [Articles](/posts)
+2. [Projects](/projects)
+3. [About](/about)
+4. [Articles](/posts)
+    * [The Cubicle Release!](/posts/release)

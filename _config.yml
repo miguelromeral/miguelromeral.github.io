@@ -1,7 +1,7 @@
 # Full Config Template: https://github.com/jekyll/minima/blob/master/_config.yml
 
 # Basic options
-title: MR's Cubicle
+title: Romeral's Cubicle
 author: Miguel Romeral
 email: miguel.romeral@hotmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -22,10 +22,16 @@ minima:
 
 # Top Navigation Menu
 header_pages:
+  - projects.md
   - about.md
   - posts.md
   - sitemap.md
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Build settings
 markdown: kramdown
