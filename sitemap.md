@@ -10,4 +10,5 @@ tags: [sitemap, miguel, romeral]
 2. [Projects](/projects)
 3. [About](/about)
 4. [Articles](/posts)
+    * [Secret Manager Beta on Google Play](/posts/secret-manager-beta-available)
     * [The Cubicle Release!](/posts/release)

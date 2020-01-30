@@ -8,13 +8,18 @@ tags: [miguel, romeral, android, java, kotlin, projects]
 
 # Main Projects Published
 
-## <img alt='SecretManager' src='https://raw.githubusercontent.com/miguelromeral/SecretManager/master/app/src/main/ic_launcher_sm_v2-web.png' height="35" width="auto" /> [Secret Manager](https://github.com/miguelromeral/SecretManager) ![](https://img.shields.io/badge/android-7.1-green)
+## <img alt='SecretManager' src='https://raw.githubusercontent.com/miguelromeral/SecretManager/master/app/src/main/ic_launcher_sm_v2-web.png' height="35" width="auto" /> [Secret Manager](https://github.com/miguelromeral/SecretManager) <a href='https://play.google.com/store/apps/details?id=es.miguelromeral.secretmanager'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="45" width="auto" /></a>
 
-|Platform|P.Languages|Released Date|
+|Platform|P.Languages|Released On|
 |-|-|-|
-|Android 7.1|Kotlin, XML|Febrary, 2020|
+|Android 6.0|Kotlin, XML|January, 2020|
 
 Android app that encrypts users data to keep it safe in your own device. It allows to execute text and even files. Also, it uses a database to store your secrets.
+
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/miguelromeral/SecretManager/master/screenshots/Screenshot_1580320480.png" height="300" width="auto">
+<img src="https://raw.githubusercontent.com/miguelromeral/SecretManager/master/screenshots/Screenshot_1580320859.png" height="300" width="auto">
+</div>
 
 ## <img alt='Tap To Go!=' src='https://raw.githubusercontent.com/miguelromeral/ReadySetGo/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png' height="35" width="auto" /> [Tap To Go!](https://github.com/miguelromeral/ReadySetGo) <a href='https://play.google.com/store/apps/details?id=es.miguelromeral.readysetgo'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="45" width="auto" /></a>
 
