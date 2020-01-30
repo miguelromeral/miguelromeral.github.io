@@ -16,8 +16,8 @@ tags: [about, cv, developer, programming, miguel, romeral, android, java, kotlin
 |**Nationality**|Spanish|
 |**Education**|Computer Engineering|
 |**Age**|24|
-|**Last Job**|[Prodware](###Prodware-Spain)|
-|**Microsoft Certifications**|[4](#Microsoft-Certifications)|
+|**Last Job**|[Prodware](https://www.prodware.es/)|
+|**Microsoft Certifications**|[4](https://www.youracclaim.com/users/miguelromeral/badges)|
 
 # Jobs experience
 
