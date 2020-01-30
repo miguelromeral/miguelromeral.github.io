@@ -16,8 +16,8 @@ tags: [about, cv, developer, programming, miguel, romeral, android, java, kotlin
 |**Nationality**|Spanish|
 |**Education**|Computer Engineering|
 |**Age**|24|
-|**Last Job**|[Prodware](https://www.prodware.es/)|
-|**Microsoft Certifications**|[4](https://www.youracclaim.com/users/miguelromeral/badges)|
+|**Last Job**|[Prodware](###Prodware-Spain)|
+|**Microsoft Certifications**|[4](#Microsoft-Certifications)|
 
 # Jobs experience
 
@@ -103,6 +103,13 @@ Also, I could see how firewalls and servers work, but other tasks that I had ful
 * [MCSA: Cloud Platform (December, 2018)](https://www.youracclaim.com/badges/ed74d14c-8fb9-455c-bca8-d58eb387dbf8)
 * [MCSD: App Builder (December, 2018)](https://www.youracclaim.com/badges/82caebeb-d4b9-47c7-ad45-66ea92507688)
 * [MCSA: Web Applications (November, 2018)](https://www.youracclaim.com/badges/3ceef6a2-5d97-4220-bfb4-ea25df2f4a83)
+
+<div style="text-align: center;">
+<img src="https://images.youracclaim.com/size/680x680/images/807898ab-9f66-4387-a5e8-b0b59977f8c0/MCSE-Cloud-Platform-Infrastructure-2018.png" height="150" width="auto">
+<img src="https://images.youracclaim.com/size/680x680/images/0b0fcadf-8a3b-4087-8e36-97a1bdbdd2cd/MCSA-Cloud-Platform-2018.png" height="150" width="auto">
+<img src="https://images.youracclaim.com/size/680x680/images/a6135ae3-7f96-437e-84d9-d2ded474583c/MCSD-App-Builder-2018.png" height="150" width="auto">
+<img src="https://images.youracclaim.com/size/680x680/images/887a1be1-7863-4e90-90c9-2bb3a13d9542/MCSA-Web-Applications-2018.png" height="150" width="auto">
+</div>
 
 # Education
 
