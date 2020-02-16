@@ -8,6 +8,21 @@ tags: [miguel, romeral, android, java, kotlin, projects]
 
 # Main Projects Published
 
+## <img alt='Factory Chaos!' src='https://raw.githubusercontent.com/miguelromeral/FactoryGame/master/Assets/Pictures/FactoryChaosIcon512.png' height="35" width="auto" /> [Factory Chaos!](https://github.com/miguelromeral/FactoryGame) <a href='https://play.google.com/store/apps/details?id=es.miguelromeral.factorychaos'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="45" width="auto" /></a>
+
+|Platform|P.Languages|Released On|
+|-|-|-|
+|Android 4.1|Unity, C#|Febrary, 2020|
+
+Android game in which the player has to avoid the dangerous objects from falling from the sky across the device screen.
+
+[![Demo Factory Chaos!](http://i3.ytimg.com/vi/jFnACOzG2qo/maxresdefault.jpg)](https://youtu.be/jFnACOzG2qo)
+
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/miguelromeral/FactoryGame/master/Screenshots/Screenshot_20200213-190922.png" height="300" width="auto">
+<img src="https://raw.githubusercontent.com/miguelromeral/FactoryGame/master/Screenshots/Screenshot_20200213-191145.png" height="300" width="auto">
+</div>
+
 ## <img alt='SecretManager' src='https://raw.githubusercontent.com/miguelromeral/SecretManager/master/app/src/main/ic_launcher_sm_v2-web.png' height="35" width="auto" /> [Secret Manager](https://github.com/miguelromeral/SecretManager) <a href='https://play.google.com/store/apps/details?id=es.miguelromeral.secretmanager'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="45" width="auto" /></a>
 
 |Platform|P.Languages|Released On|
