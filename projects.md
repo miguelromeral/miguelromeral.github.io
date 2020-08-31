@@ -8,6 +8,20 @@ tags: [miguel, romeral, android, java, kotlin, projects]
 
 # Main Projects Published
 
+## <img alt='ShareTheTrack!' src='https://raw.githubusercontent.com/miguelromeral/spotify_app/master/android/app/src/main/res/drawable/ic_launcher_round.png' height="35" width="auto" /> [ShareTheTrack](https://github.com/miguelromeral/spotify_app) <a href='https://play.google.com/store/apps/details?id=es.miguelromeral.spotifyfriends'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="45" width="auto" /></a>
+
+|Platform|P.Languages|Released On|
+|-|-|-|
+|Android 7.0|Flutter|August, 2020|
+
+ShareTheTrack is the perfect application for those who want to discover new amazing songs from their friends.  Recommend new songs to your friends and listen to their suggestions and if you like them, give them as many likes as you want.
+
+<div style="text-align: center;">
+<img src="https://lh3.googleusercontent.com/Of-o5LaFI2AmMLDATHI9jSCpfzwesf_U6uPEPTo5QTt8gpTL_vMswxt1gaV9Sdxmims=w1600-h734-rw" height="300" width="auto">
+<img src="https://lh3.googleusercontent.com/XbDLnXizt07XpaAYX2q7wrsyjqUIzZEGoYeSSPX4uL9n0Aq0bm7-Md9lxOkCPVlRqKw=w1600-h734-rw" height="300" width="auto">
+</div>
+
+
 ## <img alt='Guess Word!' src='https://raw.githubusercontent.com/miguelromeral/PasswordGame/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png' height="35" width="auto" /> [Guess Word!](https://github.com/miguelromeral/PasswordGame) <a href='https://play.google.com/store/apps/details?id=es.miguelromeral.password'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="45" width="auto" /></a>
 
 |Platform|P.Languages|Released On|
